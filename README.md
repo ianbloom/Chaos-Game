@@ -1,5 +1,5 @@
 # Chaos-Game
-Uses the chaos game to generate fractals according to user input
+A processing application that uses the chaos game to generate fractals according to user input
 
 The <a href="https://en.wikipedia.org/wiki/Chaos_game">chaos game</a> is an iterative algorithm for drawing fractals.
 
